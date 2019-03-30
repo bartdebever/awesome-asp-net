@@ -48,6 +48,7 @@ A curated list of awesome ASP.NET things.
 ### API
 
 - [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle) - Easy Swagger and Swagger UI integration for both Framework and Core.
+- [AutoMapper](https://automapper.org/) - Tool to map models to DTOs using reflection, allows for custom mapping and much more.
 
 ## Boiler Plates
 

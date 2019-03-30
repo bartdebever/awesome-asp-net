@@ -22,7 +22,13 @@ A curated list of awesome ASP.NET things.
 
 ### ASP.NET
 
+- [Microsoft: ASP.NET MVC 5](https://docs.microsoft.com/en-us/aspnet/mvc/mvc5)
+- [Microsoft: Entity Framework 6](https://docs.microsoft.com/en-us/ef/ef6/)
+
 ### ASP.NET Core
+
+- [Microsoft: ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-2.2)
+- [Microsoft: Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
 
 ### Blazor
 
@@ -32,9 +38,16 @@ A curated list of awesome ASP.NET things.
 
 ### Logging
 
+- [Serilog](https://serilog.net/) - Serilog is logging framework that allows structured logging to many sinks.
+- [NLog](https://nlog-project.org/) - Standard easy to use logging framework.
+
 ### Performance
 
+- [MiniProfiler](https://miniprofiler.com) - A profiler with integration for EntityFramework, MVC and more.
+
 ### API
+
+- [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle) - Easy Swagger and Swagger UI integration for both Framework and Core.
 
 ## Boiler Plates
 

@@ -64,4 +64,6 @@ A curated list of awesome ASP.NET things.
 
 ### Web API (Core)
 
-- [AspNetCoreApiTemplate](https://github.com/bartdebever/AspNetCoreApiTemplate) Made with Swagger, Serilog, EntityFramework Core and implements a basic Service-Repository structure.
+- [AspNetCoreApiTemplate](https://github.com/bartdebever/AspNetCoreApiTemplate) - Made with Swagger, Serilog, EntityFramework Core and implements a basic Service-Repository structure.
+- [ASP.NET Boilerplate](https://aspnetboilerplate.com/Templates) - Website made to generate ASP.NET Templates with choice of Frontend framework.
+- [Dotnet-Boxed](https://github.com/Dotnet-Boxed/Templates) - Provides minimal templates with support for REST and GraphQL

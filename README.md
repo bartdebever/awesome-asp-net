@@ -32,6 +32,10 @@ A curated list of awesome ASP.NET things.
 
 ### Blazor
 
+- [Official website](https://blazor.net)
+- [Github Repo](https://github.com/aspnet/Blazor)
+- [Microsoft: Getting Started](https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/blazor/get-started?view=aspnetcore-3.0&tabs=visual-studio)
+
 ## NuGet Packages
 
 ### Application Insights
@@ -59,3 +63,5 @@ A curated list of awesome ASP.NET things.
 ### Web API (Framework)
 
 ### Web API (Core)
+
+- [AspNetCoreApiTemplate](https://github.com/bartdebever/AspNetCoreApiTemplate) Made with Swagger, Serilog, EntityFramework Core and implements a basic Service-Repository structure.

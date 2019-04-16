@@ -58,7 +58,9 @@ A curated list of awesome ASP.NET things.
 ### API
 
 - [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle) - Easy Swagger and Swagger UI integration for both Framework and Core.
+- [NSwag](https://github.com/RicoSuter/NSwag) - Alternative to Swashbuckle. Also is able to generate TypeScript from the Swagger documentation.
 - [AutoMapper](https://automapper.org/) - Tool to map models to DTOs using reflection, allows for custom mapping and much more.
+- [aspnet-api-versioning](https://github.com/Microsoft/aspnet-api-versioning) - Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
 
 ### MicroServices
 
@@ -67,6 +69,7 @@ A curated list of awesome ASP.NET things.
 ### Miscellaneous
 
 - [Hangfire](https://www.hangfire.io/) - Framework used to execute background tasks for .NET Framework and Core.
+- [IdentityServer 4](https://identityserver.io/) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
 
 ## Boiler Plates
 

@@ -12,6 +12,8 @@ A curated list of awesome ASP.NET things.
     - [Logging](#logging)
     - [Performance](#performance)
     - [API](#api)
+    - [MicroServices](#microservices)
+    - [Miscellaneous](#miscellaneous)
   - [Boiler Plates](#boiler-plates)
     - [MVC 5](#mvc-5)
     - [MVC 6 (Core)](#mvc-6-core)
@@ -40,10 +42,14 @@ A curated list of awesome ASP.NET things.
 
 ### Application Insights
 
+- [AppMetrics](https://app-metrics.io/) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application.
+- [Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/asp-net) - Microsoft's own application insights solution hosted on Azure.
+
 ### Logging
 
 - [Serilog](https://serilog.net/) - Serilog is logging framework that allows structured logging to many sinks.
-- [NLog](https://nlog-project.org/) - Standard easy to use logging framework.
+- [NLog](https://nlog-project.org/) - A more standard logging framework with MVC (Core) support.
+- [Log4net](https://logging.apache.org/log4net/) - Port of the popular Log4J framework to C#.
 
 ### Performance
 
@@ -53,6 +59,14 @@ A curated list of awesome ASP.NET things.
 
 - [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle) - Easy Swagger and Swagger UI integration for both Framework and Core.
 - [AutoMapper](https://automapper.org/) - Tool to map models to DTOs using reflection, allows for custom mapping and much more.
+
+### MicroServices
+
+- [Ocelot](https://github.com/ThreeMammals/Ocelot) - Gateway made in .NET Core.
+
+### Miscellaneous
+
+- [Hangfire](https://www.hangfire.io/) - Framework used to execute background tasks for .NET Framework and Core.
 
 ## Boiler Plates
 

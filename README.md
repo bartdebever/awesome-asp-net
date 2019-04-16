@@ -7,6 +7,8 @@ A curated list of awesome ASP.NET things.
     - [ASP.NET](#aspnet)
     - [ASP.NET Core](#aspnet-core)
     - [Blazor](#blazor)
+  - [Blog posts](#blog-posts)
+  - [Talks and other videos](#talks-and-other-videos)
   - [NuGet Packages](#nuget-packages)
     - [Application Insights](#application-insights)
     - [Logging](#logging)
@@ -38,12 +40,19 @@ A curated list of awesome ASP.NET things.
 - [Github Repo](https://github.com/aspnet/Blazor)
 - [Microsoft: Getting Started](https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/blazor/get-started?view=aspnetcore-3.0&tabs=visual-studio)
 
+## Blog posts
+
+## Talks and other videos
+
+- [Microsoft: Building Web APIs in ASP.NET Core 2.0](https://www.youtube.com/watch?v=aIkpVzqLuhA)
+- [Logging and Metrics in Asp.Net Core](https://www.youtube.com/watch?v=8vmhzV42hI8)
+
 ## NuGet Packages
 
 ### Application Insights
 
-- [AppMetrics](https://app-metrics.io/) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application.
-- [Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/asp-net) - Microsoft's own application insights solution hosted on Azure.
+- [AppMetrics](https://app-metrics.io/) - App Metrics is an open-source and cross-platformTOs using reflection, allows for custom mapping and much more.sed to record and report metrics within an application.
+- [Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/asp-net)- [aspnet-api-versioning](https://github.com/Microsoft/aspnet-apiown application insights solution hosted on Azure.
 
 ### Logging
 
